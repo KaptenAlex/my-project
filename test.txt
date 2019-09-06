@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 I'm here - N
+=======
+   
+
+
+
+
+
+
+detta är alexs ändring
+>>>>>>> b7b50e58118af17ed944805e49cc55e8896aaf63
